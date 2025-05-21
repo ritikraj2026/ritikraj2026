@@ -11,7 +11,7 @@
 
 - 📊 I love turning raw data into meaningful insights and compelling stories.
 
-- 👨‍💻 Explore my data projects: [GitHub Portfolio](https://github.com/ritikraj2026)
+- 👨‍💻 Explore my Portfolio: [Data Analyst Portfolio](https://ritik-data-analyst-portfolio.netlify.app/)
 
 - 📫 Let's connect: ritikraj174@gmail.com
 
